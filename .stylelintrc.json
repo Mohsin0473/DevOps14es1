@@ -1,12 +1,6 @@
 {
     "extends": "stylelint-config-standard",
     "rules": {
-      "indentation": 2,
-      "color-no-invalid-hex": true,
-      "string-quotes": "double",
-      "block-no-empty": true,
-      "selector-max-id": 0,
-      "max-empty-lines": 1,
-      "no-missing-end-of-source-newline": true
+      "block-no-empty": true
     }
   }
